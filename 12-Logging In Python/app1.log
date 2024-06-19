@@ -1,0 +1,14 @@
+2024-06-19 13:34:00 - ArithmethicApp - DEBUG - Subtracting 15 - 10 = 5
+2024-06-19 13:34:00 - ArithmethicApp - DEBUG - Multiplying 10 * 20 = 200
+2024-06-19 13:34:00 - ArithmethicApp - DEBUG - Dividing 20 / 10 = 2.0
+2024-06-19 13:34:31 - ArithmethicApp - DEBUG - Subtracting 15 - 10 = 5
+2024-06-19 13:34:31 - ArithmethicApp - DEBUG - Multiplying 10 * 20 = 200
+2024-06-19 13:34:31 - ArithmethicApp - DEBUG - Dividing 20 / 10 = 2.0
+2024-06-19 13:35:26 - ArithmethicApp - DEBUG - Adding 10 + 15= 25
+2024-06-19 13:35:26 - ArithmethicApp - DEBUG - Subtracting 15 - 10 = 5
+2024-06-19 13:35:26 - ArithmethicApp - DEBUG - Multiplying 10 * 20 = 200
+2024-06-19 13:35:26 - ArithmethicApp - DEBUG - Dividing 20 / 10 = 2.0
+2024-06-19 13:36:12 - ArithmethicApp - DEBUG - Adding 10 + 15= 25
+2024-06-19 13:36:12 - ArithmethicApp - DEBUG - Subtracting 15 - 10 = 5
+2024-06-19 13:36:12 - ArithmethicApp - DEBUG - Multiplying 10 * 20 = 200
+2024-06-19 13:36:12 - ArithmethicApp - ERROR - Division by zero error
